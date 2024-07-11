@@ -102,5 +102,4 @@ try:
                 print('Invalid choice, try again')
 
 except Exception as e:
-    print(e)
-    raise
+    raise e
