@@ -1,4 +1,3 @@
-from threading import Thread
 from requests import get
 import psycopg2
 
